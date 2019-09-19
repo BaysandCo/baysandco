@@ -10,7 +10,12 @@ function App() {
           <span className="label">New York | Washington, D.C.</span>
         </div>
         <div className="email">
-          <a className="label" href="mailto:Nathan@BaysandCo.com">Nathan@BaysandCo.com</a>
+          <a 
+            className="label" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            href="mailto:Nathan@BaysandCo.com">Nathan@BaysandCo.com
+          </a>
         </div>
       </header>
     </div>
