@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec1c083f2b9ed0e82a4495534f0434be",
+    "revision": "1ed6ec21ab0c361f84f9e9cd39bc7779",
     "url": "/baysandco/index.html"
   },
   {
-    "revision": "fab01962bfc30364a76a",
+    "revision": "f870d349a3deea98c42a",
     "url": "/baysandco/static/css/main.407d919d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/baysandco/static/js/2.8db52ba9.chunk.js"
   },
   {
-    "revision": "fab01962bfc30364a76a",
-    "url": "/baysandco/static/js/main.3467071d.chunk.js"
+    "revision": "f870d349a3deea98c42a",
+    "url": "/baysandco/static/js/main.59d5ad80.chunk.js"
   },
   {
     "revision": "c34299cc8ceeb405fbe6",
