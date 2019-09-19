@@ -11,6 +11,7 @@ function App() {
         </div>
         <div className="email">
           <a 
+            title="Email Nathan@BaysandCo.com" 
             className="label" 
             target="_blank" 
             rel="noopener noreferrer" 
