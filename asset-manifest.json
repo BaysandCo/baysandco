@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/baysandco/static/css/main.407d919d.chunk.css",
-    "main.js": "/baysandco/static/js/main.59d5ad80.chunk.js",
-    "main.js.map": "/baysandco/static/js/main.59d5ad80.chunk.js.map",
-    "runtime~main.js": "/baysandco/static/js/runtime~main.27c0bc8c.js",
-    "runtime~main.js.map": "/baysandco/static/js/runtime~main.27c0bc8c.js.map",
-    "static/js/2.8db52ba9.chunk.js": "/baysandco/static/js/2.8db52ba9.chunk.js",
-    "static/js/2.8db52ba9.chunk.js.map": "/baysandco/static/js/2.8db52ba9.chunk.js.map",
-    "index.html": "/baysandco/index.html",
-    "precache-manifest.70a4e2e4a97b82e92f22d7aabc2a1ddc.js": "/baysandco/precache-manifest.70a4e2e4a97b82e92f22d7aabc2a1ddc.js",
-    "service-worker.js": "/baysandco/service-worker.js",
-    "static/css/main.407d919d.chunk.css.map": "/baysandco/static/css/main.407d919d.chunk.css.map"
+    "main.css": "/static/css/main.407d919d.chunk.css",
+    "main.js": "/static/js/main.2bc3f28d.chunk.js",
+    "main.js.map": "/static/js/main.2bc3f28d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a57029d6.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a57029d6.js.map",
+    "static/js/2.8db52ba9.chunk.js": "/static/js/2.8db52ba9.chunk.js",
+    "static/js/2.8db52ba9.chunk.js.map": "/static/js/2.8db52ba9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8a20db1d963a119bbbb73bc1a04a7261.js": "/precache-manifest.8a20db1d963a119bbbb73bc1a04a7261.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.407d919d.chunk.css.map": "/static/css/main.407d919d.chunk.css.map"
   }
 }
